@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isenstro.github.io/sitemap.html.gz
+Sitemap: https://isenstro.github.io/app/sitemap.html.gz
+Sitemap: https://isenstro.github.io/assets/sitemap.html.gz
+Sitemap: https://isenstro.github.io/css/sitemap.html.gz
+Sitemap: https://isenstro.github.io/includes/sitemap.html.gz
+Sitemap: https://isenstro.github.io/item/sitemap.html.gz
+Sitemap: https://isenstro.github.io/src/sitemap.html.gz
